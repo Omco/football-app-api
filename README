@@ -1,1 +1,5 @@
-.
+For my project I intend to built an anpplication made for football fans.
+When a user runs an application there will be a list of all premiership football clubs.
+User will be able to see the current state of standings.Also some brief history of these clubs,
+like when were they created by who,legendary players etc.
+Data base system will be used for generating tables and current standings drawn which I will draw from internet.
