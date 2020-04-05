@@ -1,0 +1,13 @@
+{
+    "name": "aldin-sxr/bosnia-cities",
+    "authors": [
+        {
+            "name": "Aldin Kovačević",
+            "email": "aldin.kovacevic.97@gmail.com"
+        }
+    ],
+    "require": {
+        "mikecao/flight": "^1.3",
+        "mongodb/mongodb": "^1.4"
+    }
+}
